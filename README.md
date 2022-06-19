@@ -1,6 +1,8 @@
-# firstapp
+# Restaurant Template
 
-A new Flutter project.
+This project it aims to be a template to use in others projects.
+It tries to make some components and functionalities
+that can be used in others projects.
 
 ## Getting Started
 
@@ -15,7 +17,10 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+## Run
+To run this application use flutter run
 
-flutter devices
+## Devices
+To see devices use  flutter devices
 
-flutter run -v -d emulator-5554
+You can set the amulator using flutter run -v -d emulator-5554
